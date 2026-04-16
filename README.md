@@ -53,7 +53,7 @@ else
 fi
 ```
 
-<img width="688" height="97" alt="изображение" src="https://github.com/user-attachments/assets/f18bef41-6dc0-453b-9e8e-86f2bb81a8ee" />
+<img width="676" height="248" alt="Снимок экрана от 2026-04-16 13-23-53" src="https://github.com/user-attachments/assets/7cb0ddfb-e400-4ba4-9c90-74de982f4a99" />
 
 ### 4) Написать скрипт, который будет выводить количество процессов указанной в аргументе службы. Например ```bash ./count.sh nginx nginx 3 ```
 ```
